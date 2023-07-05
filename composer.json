@@ -1,0 +1,5 @@
+{
+    "require": {
+        "namdevel/ovoid-api": "^2.2"
+    }
+}
